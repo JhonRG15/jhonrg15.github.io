@@ -95,7 +95,6 @@ function messageElect() {
 
 
 function actionMove(){
-    list = ["a", "b", "c", "d", "e", "f", "g"];
     backgroundFrame.style.backgroundImage = `url('imgs/pixil-frame-background-0.png')`;
     message.textContent = messageElect();
 }
