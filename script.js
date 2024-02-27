@@ -82,12 +82,12 @@ function messageElect() {
             "Haz de cada día tu obra maestra. John Wooden.",
             "Ser buen perdedor es aprender cómo ganar. Carl Sandburg.",
             "Si la oportunidad no llama, construye una puerta. Milton Berle.",
-            "Hecho es mejor que perfecto. Sheryl Sandberg.",
+            "Rindete, pero solo de pensar en hacerlo. Jhon Ruiz.",
             "Siempre es tarde para rendirse. Norman Vincent Peale.",
             "Un objetivo sin un plan es solo un deseo. Antoine de Saint-Exupéry.",
             "Vivir es nacer a cada instante. Erich Fromm.",
             "Vale más hacer y arrepentirse que no hacer y arrepentirse. Maquiavelo.",
-            "El valor de una idea radica en su uso. Thomas Edison.",
+            "Puedes pensar en rendirte, pero no tienes que hacerlo. Jhon Ruiz.",
             "El poder no se te da, lo tienes que coger. Beyoncé."];
     return list[(Math.floor(Math.random() * ((list.length))))];
 }
