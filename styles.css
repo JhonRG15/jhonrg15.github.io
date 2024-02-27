@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 1000px;
+    height: 600px;
+    background-image: url('imgs/pixil-frame-background.png');
+}
+
+.pixel-art_container {
+    display: inline-flex;
+    width: 200px; 
+    height: 200px;
+    background-size: cover;
+}
+
+.pixel-art{
+    width: 200px; 
+    height: 200px;
+    background-image: url('imgs/pixil-frame-0.png');  
+}
+
+.button-message_container{
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 58px;
+}
+.button-message{
+    width: 132px;
+    height: 86px;
+    background-image: url('imgs/pixil-frame-mail.png');
+    margin-left: 67px;
+    background-repeat: no-repeat;
+}
+
+.button-message:hover{
+    margin-bottom: 20px;
+}
+
+.txt_container{
+    display: inline-flex;
+    align-items: center;
+    justify-content: right;
+    width: 472px; 
+    height: 275px;
+    margin:0px 0px 170px 97px;
+/*    background-color: red;*/
+}
+
+.txt{
+    padding: 0 10px 0 10px;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    overflow: hidden; /* Para manejar el desbordamiento de texto */
+    word-break: break-word;
+}
