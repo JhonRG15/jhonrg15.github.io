@@ -31,7 +31,7 @@ function messageElect() {
             "La vida debe ser comprendida hacia detrás, pero debe ser vivida hacia delante. Søren Kierkegaard.",
             "Cuando era niño soñaba, pero dejé de soñar y empecé a hacer, porque es el poder de lo que se realiza lo que vuelve los sueños realidad. Usain Bolt.",
             "La vida es como montar en bicicleta. Para mantener el equilibrio tienes que avanzar. Albert Einstein.",
-            "Todo lo que siempre has querido está al otro lado del miedo. George Addair.",
+            "Disfrutar; asi es como cada dia vale la pena. Jhon Ruiz.",
             "Vale más actuar exponiéndose a arrepentirse de ello, que arrepentirse de no haber hecho nada. Giovanni Boccaccio.",
             "Que hoy solo sea hoy, sin el peso de ayer, sin la ansiedad de mañana. Disfruta, sonríe y haz magia con tu día porque vivir el presente es lo mejor que puedes hacer. @frases_stm.",
             "Nuevo día, nuevos pensamientos, nuevas esperanzas y nuevas oportunidades. Lailah Gifty Akita.",
