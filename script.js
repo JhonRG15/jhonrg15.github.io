@@ -16,7 +16,7 @@ function messageElect() {
             "No hay que ir para atrás ni para darse impulso. Lao Tsé.",
             "Solo imagina lo precioso que puede ser arriesgarse y que todo salga bien. Mario Benedetti.",
             "La vida es un 10% lo que te sucede y un 90% de cómo reaccionas a ello. Charles R. Swindoll.",
-            "La pregunta no es quién me va a dejar; es quién va a detenerme. Ayn Rand.",
+            "El mayor debate que existe es el que hay entre la mente y el corazon. Jhon Ruiz.",
             "El éxito no se logra solo con cualidades especiales. Es, sobre todo, un trabajo de constancia, de método y de organización. Víctor Hugo.",
             "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea, pero sigue avanzando hacia tu meta. Martin Luther King.",
             "La pregunta que me hago casi todos los días es: '¿Estoy haciendo lo más importante que puedo?'. Mark Zuckerberg.",
