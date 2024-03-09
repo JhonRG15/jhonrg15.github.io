@@ -16,14 +16,14 @@ body {
 
 .pixel-art_container {
     display: inline-flex;
-    width: 200px; 
-    height: 200px;
+    width: 300px; 
+    height: 300px;
     background-size: cover;
 }
 
 .pixel-art{
-    width: 200px; 
-    height: 200px;
+    width: 300px; 
+    height: 300px;
     background-image: url('imgs/pixil-frame-0.png');  
 }
 
@@ -34,12 +34,15 @@ body {
     width: 200px;
     height: 200px;
     padding-bottom: 58px;
+/*    background-color: red;*/
 }
 .button-message{
-    width: 132px;
-    height: 86px;
-    background-image: url('imgs/pixil-frame-mail.png');
-    margin-left: 67px;
+    width: 150px;
+    height: 100px;
+    background-image: url('imgs/pixil-frame-mail(1).png');
+    padding-right: 200px;
+    
+/*    margin-left: 67px;*/
     background-repeat: no-repeat;
 }
 
@@ -53,7 +56,7 @@ body {
     justify-content: right;
     width: 472px; 
     height: 275px;
-    margin:0px 0px 170px 97px;
+    margin:0px 0px 170px -3px;
 /*    background-color: red;*/
 }
 
@@ -65,4 +68,5 @@ body {
     font-size: 30px;
     overflow: hidden; /* Para manejar el desbordamiento de texto */
     word-break: break-word;
+/*    background-color: blue;*/
 }
