@@ -4,6 +4,7 @@ const backgroundFrame = document.querySelector(".container")
 let frame = 0;
 const totalFrames = 4; // ajusta según el número total de frames en tu animación
 let x = false;
+
 function animatePixelArt() {
     pixelArt.style.backgroundImage = `url('imgs/pixil-frame-${frame}(2).png')`;
 
