@@ -2,10 +2,10 @@ const pixelArt = document.querySelector('.pixel-art');
 const message = document.querySelector(".txt")
 const backgroundFrame = document.querySelector(".container")
 let frame = 0;
-const totalFrames = 5; // ajusta según el número total de frames en tu animación
-
+const totalFrames = 4; // ajusta según el número total de frames en tu animación
+let x = false;
 function animatePixelArt() {
-    pixelArt.style.backgroundImage = `url('imgs/pixil-frame-${frame}.png')`;
+    pixelArt.style.backgroundImage = `url('imgs/pixil-frame-${frame}(1).png')`;
 
     frame = (frame % totalFrames) + 1;
 }
@@ -96,7 +96,13 @@ function messageElect() {
 
 function actionMove(){
     backgroundFrame.style.backgroundImage = `url('imgs/pixil-frame-background-0.png')`;
-    message.textContent = messageElect();
+    if (x) {
+        message.textContent = messageElect();
+    } else {
+        message.textContent = "Espero que hayas tenido un buen día. Esto va para tí, mujer que lucha todos los dias por salir adelante a pesar de las dificultades y conflictos que te da la vida 💐💗. Jhon Ruiz"
+        x=true;
+    }
 }
+
 
 setInterval(animatePixelArt, 100); // ajusta el intervalo según la velocidad deseada
