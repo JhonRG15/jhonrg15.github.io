@@ -11,6 +11,7 @@ function animatePixelArt() {
     frame = (frame % totalFrames) + 1;
 }
 
+
 function messageElect() {
     list =["Hola MftNv❤️. Espero que en este dia, la pases increible. Por que eso eres. Para mi eres una mujer(mi mujer) muy especial e increible que alegra todos mis dias cuando te veo. Gracias por aparecer en mi vida🥰❤️🌻"];
     return list[(Math.floor(Math.random() * ((list.length))))];
