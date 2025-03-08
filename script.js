@@ -103,7 +103,7 @@ function actionMove(){
     if (x) {
         message.textContent = messageElect();
     } else {
-        message.textContent = "Espero que hayas tenido un buen día. Esto va para tí, mujer que lucha todos los dias por salir adelante a pesar de las dificultades y conflictos que te da la vida 💐💗. Jhon Ruiz"
+        message.textContent = "Hola Mi Niña Consentida. Espero que en este dia de la mujer, la pases increible. Por que eso eres. Para mi eres una mujer, mi mujer, muy especial e increible que alegra todos mis dias cuando te veo. Gracias por aparecer en mi vida🥰❤️🌻"
         x=true;
     }
     
